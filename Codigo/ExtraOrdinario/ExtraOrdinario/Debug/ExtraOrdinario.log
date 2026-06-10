@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(174,9): warning C4005: 'MAX_FRAMES': redefinición de macro
+      C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(49,9):
+      vea la definición anterior de “MAX_FRAMES”
+  
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(377,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(736,10): warning C4566: el carácter representado por el nombre de carácter universal '\uFFFD' no se puede representar en la página de códigos actual (1252)
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(854,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(855,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(859,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(860,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(862,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\osval\Documents\Codigo\ExtraOrdinario\ExtraOrdinario\Main.cpp(863,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ExtraOrdinario.vcxproj -> C:\Users\osval\Documents\Codigo\ExtraOrdinario\Debug\ExtraOrdinario.exe
